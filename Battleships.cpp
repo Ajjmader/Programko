@@ -19,7 +19,7 @@ int main() {
   { " 0 "," 0 "," 0 "," 0"},
   { " 0 "," 0 "," 0 "," 0"}
   };
-
+  // Je ty to mas pekny
   // Do techto promenn�ch zapisujeme pocet tahu a z�sahu
   int zasahy = 0;
   int tahy = 0;
